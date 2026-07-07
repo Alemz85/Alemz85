@@ -1,55 +1,36 @@
 # Hi, I'm Alessandro 👋
 
-MSc in Business Analytics candidate at **Esade** (Barcelona), incoming **CEMS Master in International Management** at Copenhagen Business School & Esade. Economics background from **LUISS Guido Carli** (Rome).
+MSc in Business Analytics student at Esade in Barcelona, starting the CEMS Master in International Management at Copenhagen Business School this autumn. I studied economics at LUISS in Rome before moving into analytics.
 
-I'm interested in where finance meets AI — not just whether a model predicts well, but whether it's explainable, economically viable, and actually deployable in a regulated environment.
+Most of my recent work is on credit risk: my capstone with Banc Sabadell asks whether LLMs are actually useful for credit scoring, or whether a plain XGBoost model does the job better and cheaper.
 
-🇮🇹 Italian (native) · 🇬🇧 English (C1) · 🇵🇹 Portuguese (advanced) · 🇪🇸 Spanish (advanced)
+Italian (native) · English · Portuguese · Spanish
 
 ---
 
-## 🔍 What I Build
+## Projects
 
 | Project | Description |
 |---------|-------------|
-| **[Classical ML vs. LLM for Credit Scoring](https://github.com/jadzoghaib/Sabadell_Capstone)** | Esade capstone sponsored by **Banc Sabadell (IT & Ops)**. Benchmarked an XGBoost baseline against LLM "reasoned-decision" engines (GPT, Gemini, Claude, Llama) for credit default prediction on LendingClub data. Went beyond accuracy: API cost economics with prompt caching, SHAP vs. natural-language explainability, a confidence-gated hybrid router (XGBoost for easy cases, LLM for boundary cases), and retrieval-augmented scoring with precedent loans. |
+| **[ML vs. LLMs for credit scoring](https://github.com/jadzoghaib/Sabadell_Capstone)** | Esade capstone project with Banc Sabadell. We benchmark LLMs against a classical XGBoost baseline on loan default prediction, then look at what the comparison misses: API costs, how the two explain their decisions, and a hybrid setup that only sends uncertain cases to the LLM. |
 
 ---
 
-## 🛠️ Tech Stack
+## Tools I use
 
-**Languages & Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge)
-
-**LLMs & Cloud**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📫 Get in Touch
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mezzanotte/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alemezza85@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mezzanotte/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alemezza85@gmail.com)
 
-📍 Barcelona, Spain
+Barcelona, Spain
