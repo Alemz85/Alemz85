@@ -8,11 +8,24 @@ Most of my recent work is on credit risk: my capstone with Banc Sabadell asks wh
 
 ---
 
-## 🔍 Projects
+<!-- Uncomment when there is a public personal project to show:
+
+## 🧪 Personal projects
+
+| Project | Description |
+|---------|-------------|
+| **[Name](https://github.com/Alemz85/repo)** | One-line description. |
+
+---
+-->
+
+## 🎓 MSc Business Analytics projects
 
 | Project | Description |
 |---------|-------------|
 | **[ML vs. LLMs for credit scoring](https://github.com/jadzoghaib/Sabadell_Capstone)** | Esade capstone project with Banc Sabadell. We benchmark LLMs against a classical XGBoost baseline on loan default prediction, then look at what the comparison misses: API costs, how the two explain their decisions, and a hybrid setup that only sends uncertain cases to the LLM. |
+| **[EV charging load forecast](https://github.com/Alemz85/EV-Charging-Load-Forecast)** | Hourly load forecasting for 873 EV charging stations on Jeju Island (PlusDR dataset, 2021–22). Full pipeline from raw data to Optuna-tuned LightGBM and XGBoost models, plus a classification reframing that predicts demand level instead of exact load. |
+| **[Simple vs. complex contagion](https://github.com/Alemz85/Contagion_fit_simulation)** | Fits simple (Independent Cascade) and complex (threshold) contagion models to real Twitter and Weibo cascade-size distributions to see which mechanism explains them better, and what that implies for choosing between influencer seeding and seeding clustered groups of ordinary users. |
 
 ---
 
