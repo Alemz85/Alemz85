@@ -1,8 +1,10 @@
 # Hi, I'm Alessandro 👋
 
-MSc in Business Analytics candidate at **Esade**, based in Barcelona 🇪🇸. I'm interested in where finance meets AI — not just whether a model predicts well, but whether it's explainable, economically viable, and actually deployable in a regulated environment.
+MSc in Business Analytics candidate at **Esade** (Barcelona), incoming **CEMS Master in International Management** at Copenhagen Business School & Esade. Economics background from **LUISS Guido Carli** (Rome).
 
-🇮🇹 Italian (native) · 🇬🇧 English (fluent)
+I'm interested in where finance meets AI — not just whether a model predicts well, but whether it's explainable, economically viable, and actually deployable in a regulated environment.
+
+🇮🇹 Italian (native) · 🇬🇧 English (C1) · 🇵🇹 Portuguese (advanced) · 🇪🇸 Spanish (advanced)
 
 ---
 
@@ -19,6 +21,8 @@ MSc in Business Analytics candidate at **Esade**, based in Barcelona 🇪🇸. I
 **Languages & Analysis**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Data & ML**
@@ -34,6 +38,7 @@ MSc in Business Analytics candidate at **Esade**, based in Barcelona 🇪🇸. I
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Tools**
 
@@ -45,6 +50,6 @@ MSc in Business Analytics candidate at **Esade**, based in Barcelona 🇪🇸. I
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mezzanotte/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alezco85@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alemezza85@gmail.com)
 
 📍 Barcelona, Spain
