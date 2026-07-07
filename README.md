@@ -4,11 +4,11 @@ MSc in Business Analytics student at Esade in Barcelona, starting the CEMS Maste
 
 Most of my recent work is on credit risk: my capstone with Banc Sabadell asks whether LLMs are actually useful for credit scoring, or whether a plain XGBoost model does the job better and cheaper.
 
-Italian (native) · English · Portuguese · Spanish
+🇮🇹 Italian (native) · 🇬🇧 English · 🇵🇹 Portuguese · 🇪🇸 Spanish
 
 ---
 
-## Projects
+## 🔍 Projects
 
 | Project | Description |
 |---------|-------------|
@@ -16,7 +16,7 @@ Italian (native) · English · Portuguese · Spanish
 
 ---
 
-## Tools I use
+## 🛠️ Tools I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -28,9 +28,9 @@ Italian (native) · English · Portuguese · Spanish
 
 ---
 
-## Contact
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mezzanotte/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alemezza85@gmail.com)
 
-Barcelona, Spain
+📍 Barcelona, Spain
