@@ -12,6 +12,7 @@ Most of my recent work is on credit risk: my capstone with Banc Sabadell asks wh
 
 | Project | Description |
 |---------|-------------|
+| **[Alke](https://github.com/Alemz85/health-analytics)** | I built Alke around my own Apple Watch data. It turns Apple Health exports into training load, recovery, and Zone 2 trends in an Electron dashboard. The Claude Code chat can dig through the same data and keep track of injuries and goals. Supabase sits underneath it, with a Deno ingestion function and a nightly Python metrics job. |
 | **[Starpath](https://github.com/Alemz85/starpath)** | Local-first AI job-search workspace: an Electron + Next.js desktop app over a markdown data layer, with Claude Code as the engine. Scans job boards, scores every listing across ten dimensions with auditable reasoning, tailors CVs, and tracks applications on a kanban — all on your own laptop. |
 
 ---
